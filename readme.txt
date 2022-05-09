@@ -1,0 +1,1 @@
+So this is a weather app which uses api from openweather.org and post the data send as a name to a server to show what is the weather there.
